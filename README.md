@@ -1,3 +1,3 @@
 # allaboutcats
 
-A website for course competition for CF:G.
+A website created for the course competition for CF:G (CodeFirst:Girls) in Brunel University London.
